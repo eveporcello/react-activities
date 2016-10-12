@@ -5,14 +5,16 @@ Use the data to create a recipe application that will display recipe data.
 
 Components
 ----
-* Menu
+* Menu - A component that displays all recipes
     * props: title, recipes
     * Hint: data is recipes
     * state: none
-* Recipe 
+* Recipe - A component that displays name, ingredients, and steps
     * props: name, ingredients, steps
     * state: none
     
+    
+* Bonus: Make these stateless    
     
 Data
 ---
